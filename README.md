@@ -50,4 +50,5 @@
     </div>
   </div>
   <p><img align="left" style="padding: 100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact"  alt="ivlevsemyon" /></p>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=5DD2F7&background=89FD4600&center=true&vCenter=true&width=435&lines=The+Developing+Stoic" alt="Typing SVG" /></a>
 </div>
