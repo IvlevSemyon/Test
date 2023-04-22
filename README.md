@@ -1,4 +1,4 @@
-<p>
+<div>
 <img align="left" style="padding: 100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact"/>
   <h1 align="left">𝙃𝙞 👋! 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙎𝙚𝙢𝙮𝙤𝙣 𝙖𝙣𝙙 𝙄'𝙢 𝙖 𝙗𝙚𝙜𝙞𝙣𝙚𝙧 𝘾# 𝙗𝙖𝙘𝙠𝙚𝙣𝙙 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧, 𝙛𝙧𝙤𝙢 𝙍𝙪𝙨𝙨𝙞𝙖</h1>
   
@@ -51,4 +51,4 @@
     </div>
   </div>
   <p><img align="left" style="padding: 100px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivlevsemyon&show_icons=true&locale=en&layout=compact"  alt="ivlevsemyon" /></p>
-</p>
+</div>
