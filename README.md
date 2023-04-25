@@ -31,8 +31,8 @@
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="42" alt="dotnetcore logo"  /></a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="42"/> </a> 
 
-<img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "120" height = "120"/></a> 
-<img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "120" height = "120"/></a>
-<img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "120" height = "120"/></a>
-<img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "120" height = "120"/></a>
-<img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "120" height = "120"/></a>
+<img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "110" height = "110"/></a> 
+<img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "110" height = "110"/></a> 
+<img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "110" height = "110"/></a>
+<img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "110" height = "110"/></a> 
+<img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "110" height = "110"/></a> 
