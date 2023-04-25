@@ -13,3 +13,5 @@
 <a href="https://discord.com/users/540883705900695552" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="50" height="42" /></a>
 <a href="https://www.codewars.com/users/ensi" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" width="50" height="42" /></a>
 <a href="https://t.me/tyrivlevz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="42" alt="telegram logo"/></a>
+
+## ◀ Skills ▶
