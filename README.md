@@ -7,8 +7,8 @@
 
 <img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "510"/>
 
-✉️  You can contact me at [ivlesemen5566@gmail.com](mailto:ivlesemen5566@gmail.com) or telegram ([https://t.me/tyrivlevz](https://t.me/tyrivlevz))
-🧠  I'm learning C#, .net, .net core and Sql
+<a>✉️  You can contact me at [ivlesemen5566@gmail.com](mailto:ivlesemen5566@gmail.com) or telegram ([https://t.me/tyrivlevz](https://t.me/tyrivlevz))</a>
+<a>🧠  I'm learning C#, .net, .net core and Sql</a>
 
 <img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "510"/>
 
