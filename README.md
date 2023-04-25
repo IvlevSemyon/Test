@@ -31,7 +31,8 @@
     <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="42" alt="dotnetcore logo"  /></a>
     <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="50" height="42"/> </a> 
 
-<a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a> 
+<p>
+  <a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a> 
   <a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a>
   <a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a>
   <a><img src ="https://user-images.githubusercontent.com/75061655/231721085-7645719e-eb75-448a-a9b7-aa6eb006803b.gif" width = "100" height = "100"/></a>
