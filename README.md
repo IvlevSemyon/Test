@@ -5,12 +5,12 @@
   <img align="right" src ="https://user-images.githubusercontent.com/75061655/234397750-7418e4f6-08c9-46f2-b00f-bac51fb66186.gif" width = "250" height = "1000"/>
 </p>
 
-<img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif"/>
+<img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "750"/>
 
 * ✉️  You can contact me at [ivlesemen5566@gmail.com](mailto:ivlesemen5566@gmail.com) or telegram ([https://t.me/tyrivlevz](https://t.me/tyrivlevz))
 * 🧠  I'm learning C#, .net, .net core and Sql
 
-<img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif"/>
+<img src ="https://user-images.githubusercontent.com/75061655/231754951-d08d501a-b5e8-41c9-b837-5893be106530.gif" width = "750"/>
 
 ## ◀ Socials ▶
 
