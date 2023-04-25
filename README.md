@@ -5,5 +5,5 @@
   <img align="right" src ="https://user-images.githubusercontent.com/75061655/234397750-7418e4f6-08c9-46f2-b00f-bac51fb66186.gif" width = "250" height = "1000"/>
 </p>
 
-
+## ◀ Socials ▶
 
